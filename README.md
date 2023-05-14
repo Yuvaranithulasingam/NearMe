@@ -182,7 +182,7 @@ kundrathur.html
 
 ## HTML VALIDATOR
 
-![htmlvalidator](./screenshots/html validator.png)
+![HTMLvalidator](./screenshots/valid.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
